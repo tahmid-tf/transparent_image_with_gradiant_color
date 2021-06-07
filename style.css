@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(
+      #ffffff,
+      rgba(229, 128, 101, 0),
+      rgba(159, 229, 101, 0.76),
+      #65e565
+    ),
+    transparent
+      url(https://demo2.tokomoo.com/livre/wp-content/uploads/sites/16/2017/05/Hero-1.jpg)
+      center center/cover no-repeat scroll;
+  padding-top: 351px;
+  padding-bottom: 150px;
+  max-width: fit-content;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
